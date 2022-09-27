@@ -7,3 +7,13 @@
 
 ### Code and Project page
 - Coming soon
+
+
+#### Bibliography entry:
+
+@article{yu2022udepth,
+  title={{UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots}},
+  author={Yu, Boxiao and Wu, Jiayi and Islam, Md Jahidul},
+  journal={ArXiv preprint arXiv:2209.12358},
+  year={2022}
+}

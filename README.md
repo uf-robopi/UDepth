@@ -1,6 +1,6 @@
 ### UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots
 
-<img src=/data/udepth.jpeg width=43% /> <img src=/data/udepth.gif width=55% />
+<img src=/data/udepth.jpeg width=46% /> <img src=/data/udepth.gif width=52% />
 
 ### Pointers
 - Preprint: https://arxiv.org/pdf/2209.12358.pdf

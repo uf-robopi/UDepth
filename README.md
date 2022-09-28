@@ -2,7 +2,7 @@
 
 <img src=/data/udepth.jpeg> 
 
-<img src=/data/RMI_space.jpeg width=52% /> <img src=/data/udepth.gif width=43% />
+<img src=/data/RMI_space.jpeg width=50% /> <img src=/data/udepth.gif width=48% />
 
 ### Pointers
 - Preprint: https://arxiv.org/pdf/2209.12358.pdf

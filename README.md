@@ -5,7 +5,7 @@
 ### Pointers
 - Preprint: https://arxiv.org/pdf/2209.12358.pdf
 - Video demonstration: https://youtu.be/lNK90c5ofVQ
-- Evaluation Data: Coming soon...
+- Evaluation Data: https://drive.google.com/drive/folders/1HOUfFXZQJ9vAJ9Hqjz74jjdru4-2UQM_?usp=sharing
 
 <img src=/data/RMI_space.jpeg width=55% /> <img src=/data/RMI_next.jpeg width=38% />
 

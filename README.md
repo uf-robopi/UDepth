@@ -9,8 +9,12 @@
 
 <img src=/data/RMI_space.jpeg width=55% /> <img src=/data/RMI_next.jpeg width=38% />
 
-### Code and Project page
-- Coming soon
+### Model and test scripts
+- The UDepth model architecture is in [model/udepth.py](model/udepth.py)
+- UDepth inference on [USOD10K](https://github.com/LinHong-HIT/USOD10K) dataset: use [test_usod10k.py](test_usod10k.py) 
+- UDepth inference on other images: use [inference.py](inference.py) 
+- Domain projection inference on USOD10K dataset: use [test_usod10k_proj.py](test_usod10k_proj.py) 
+- Domain projection inference on other images: use [inference_proj.py](inference_proj.py) 
 
 
 #### Bibliography entry:
@@ -22,3 +26,7 @@
     year={2022}
 	}
 
+
+#### Acknowledgements
+- https://github.com/Miche11eU/AdaBins
+- https://github.com/wuzhe71/CPD

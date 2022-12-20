@@ -11,6 +11,7 @@
 
 ### Model and test scripts
 - The UDepth model architecture is in [model/udepth.py](model/udepth.py)
+- The saved models are in [saved_model](saved_model/)
 - UDepth inference on [USOD10K](https://github.com/LinHong-HIT/USOD10K) dataset: use [test_usod10k.py](test_usod10k.py) 
 - UDepth inference on other images: use [inference.py](inference.py) 
 - Domain projection inference on USOD10K dataset: use [test_usod10k_proj.py](test_usod10k_proj.py) 

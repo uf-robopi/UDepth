@@ -18,15 +18,16 @@
 
 
 #### Bibliography entry:
-	
-	@article{yu2022udepth,
-    author={Yu, Boxiao and Wu, Jiayi and Islam, Md Jahidul},
-    title={{UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots}},
-    journal={ArXiv preprint arXiv:2209.12358},
-    year={2022}
-	}
+
+    @inproceedings{yu2022udepth,    
+    author={Yu, Boxiao and Wu, Jiayi and Islam, Md Jahidul},    
+    title={UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots},    
+    booktitle={Accepted at the IEEE International Conference on Robotics and Automation (ICRA)},    
+    year={2023},    
+    organization={IEEE}
+    }
 
 
 #### Acknowledgements
-- https://github.com/Miche11eU/AdaBins
+- https://github.com/shariqfarooq123/AdaBins
 - https://github.com/wuzhe71/CPD

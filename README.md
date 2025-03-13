@@ -22,7 +22,7 @@
     @inproceedings{yu2022udepth,    
     author={Yu, Boxiao and Wu, Jiayi and Islam, Md Jahidul},    
     title={UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots},    
-    booktitle={Accepted at the IEEE International Conference on Robotics and Automation (ICRA)},    
+    booktitle={IEEE International Conference on Robotics and Automation (ICRA)},    
     year={2023},    
     organization={IEEE}
     }
